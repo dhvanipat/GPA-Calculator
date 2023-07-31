@@ -1,0 +1,39 @@
+Nature of Politics
+3.0
+C+
+Calc II For Math
+4.0
+C
+Analytical Physics IA
+2.0
+B
+Intro to Computers for Engineers (MATLAB)
+3.0
+A
+Data Structures
+4.0
+C+
+Expository Writing I
+3.0
+B
+Race, Ethnicity, Politics
+3.0
+A
+Gods, Myths, and Religion in a Secular Age
+3.0
+B
+Intro to Music I
+3.0
+B+
+Art Appreciation
+2.0
+B+
+Intro Linear Algebra
+3.0
+A
+Computer Architecture
+4.0
+A
+Discrete Structures I
+4.0
+A
