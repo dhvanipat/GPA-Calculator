@@ -1,18 +1,9 @@
 Nature of Politics
 3.0
 C+
-Calc II For Math
-4.0
-C
-Analytical Physics IA
-2.0
-B
 Intro to Computers for Engineers (MATLAB)
 3.0
 A
-Data Structures
-4.0
-C+
 Expository Writing I
 3.0
 B
@@ -28,12 +19,6 @@ B+
 Art Appreciation
 2.0
 B+
-Intro Linear Algebra
+Seminar in Computers and Society
 3.0
-A
-Computer Architecture
-4.0
-A
-Discrete Structures I
-4.0
-A
+B
